@@ -1,0 +1,16 @@
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.csproj.AssemblyReference.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.AssemblyInfoInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.AssemblyInfo.cs
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.csproj.CoreCompileInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/bin/Debug/net5.0/AnonymousDelegates
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/bin/Debug/net5.0/AnonymousDelegates.deps.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/bin/Debug/net5.0/AnonymousDelegates.runtimeconfig.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/bin/Debug/net5.0/AnonymousDelegates.runtimeconfig.dev.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/bin/Debug/net5.0/AnonymousDelegates.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/bin/Debug/net5.0/AnonymousDelegates.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/refint/AnonymousDelegates.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.genruntimeconfig.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/ref/AnonymousDelegates.dll

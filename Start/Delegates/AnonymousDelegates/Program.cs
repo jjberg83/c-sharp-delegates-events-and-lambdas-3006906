@@ -9,6 +9,10 @@ namespace AnonymousDelegates
         static void Main(string[] args)
         {
             // TODO: Implement an anonymous delegate
+            MyDelegate f = delegate(int a, int b) {
+                return $"{a-b}";
+            };
+            Console.WriteLine("Nummeret fra anonymDelgat blir da: " + f(4,1));
 
         }
     }
