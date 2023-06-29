@@ -1,0 +1,16 @@
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.csproj.AssemblyReference.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.AssemblyInfoInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.AssemblyInfo.cs
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.csproj.CoreCompileInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/bin/Debug/net5.0/BasicDelegates
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/bin/Debug/net5.0/BasicDelegates.deps.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/bin/Debug/net5.0/BasicDelegates.runtimeconfig.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/bin/Debug/net5.0/BasicDelegates.runtimeconfig.dev.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/bin/Debug/net5.0/BasicDelegates.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/bin/Debug/net5.0/BasicDelegates.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/obj/Debug/net5.0/refint/BasicDelegates.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.genruntimeconfig.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/BasicDelegates/obj/Debug/net5.0/ref/BasicDelegates.dll
