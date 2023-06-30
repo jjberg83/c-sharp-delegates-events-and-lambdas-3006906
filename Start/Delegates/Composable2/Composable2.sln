@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composable2", "Composable2.csproj", "{F745E7BF-F5A6-41D3-A236-9A70F837E835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F745E7BF-F5A6-41D3-A236-9A70F837E835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F745E7BF-F5A6-41D3-A236-9A70F837E835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F745E7BF-F5A6-41D3-A236-9A70F837E835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F745E7BF-F5A6-41D3-A236-9A70F837E835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11DAE4F7-2D1C-4CE1-925E-105ACF6E0209}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/bin/Debug/net5.0/Composable2
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/bin/Debug/net5.0/Composable2.deps.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/bin/Debug/net5.0/Composable2.runtimeconfig.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/bin/Debug/net5.0/Composable2.runtimeconfig.dev.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/bin/Debug/net5.0/Composable2.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/bin/Debug/net5.0/Composable2.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/obj/Debug/net5.0/Composable2.csproj.AssemblyReference.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/obj/Debug/net5.0/Composable2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/obj/Debug/net5.0/Composable2.AssemblyInfoInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/obj/Debug/net5.0/Composable2.AssemblyInfo.cs
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/obj/Debug/net5.0/Composable2.csproj.CoreCompileInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/obj/Debug/net5.0/Composable2.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/obj/Debug/net5.0/refint/Composable2.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/obj/Debug/net5.0/Composable2.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/obj/Debug/net5.0/Composable2.genruntimeconfig.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/obj/Debug/net5.0/ref/Composable2.dll
