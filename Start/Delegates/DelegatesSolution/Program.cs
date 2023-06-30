@@ -2,14 +2,24 @@
 
 namespace DelegatesSolution
 {
+    public delegate float MinDelegate(float pris);
     class Program
     {
+        // float riskFee = 25.0f;
         static float zone1Fees(float pris) {
-            return pris * 1.25f;
+            return pris * 0.25f;
         }
         static float zone2Fees(float pris)
         {
-            return pris * 1.12f;
+            return pris * 0.12f + 25.0f;
+        }
+        static float zone3Fees(float pris)
+        {
+            return pris * .08f;
+        }
+        static float zone4Fees(float pris)
+        {
+            return pris * .04f + 25.0f;
         }
         static void Main(string[] args)
         {
@@ -32,13 +42,38 @@ namespace DelegatesSolution
                 }
                 float prisFloat;
                 bool prisParse = float.TryParse(pris, out prisFloat);
-                if (prisParse) 
+                // if (prisParse) 
+                // {
+                //     Console.WriteLine("Parsen gikk greit");
+                // } 
+                // else 
+                // {
+                //     Console.WriteLine("Parsen gikk til helvete");
+                // }
+                MinDelegate f;
+                if (destinasjon == "zone1")
                 {
-                    Console.WriteLine("Parsen gikk greit");
-                } 
+                    f = zone1Fees;
+                    Console.WriteLine("The shipping fees are: " + f(prisFloat));
+                }
+                else if (destinasjon == "zone2")
+                {
+                    f = zone2Fees;
+                    Console.WriteLine("The shipping fees are: " + f(prisFloat));
+                }
+                else if (destinasjon == "zone3")
+                {
+                    f = zone3Fees;
+                    Console.WriteLine("The shipping fees are: " + f(prisFloat));
+                }
+                else if (destinasjon == "zone4")
+                {
+                    f = zone4Fees;
+                    Console.WriteLine("The shipping fees are: " + f(prisFloat));
+                }
                 else 
                 {
-                    Console.WriteLine("Parsen gikk til helvete");
+                    Console.WriteLine($"Destinasjonen {destinasjon} er ukjent.");
                 }
                 
             }
