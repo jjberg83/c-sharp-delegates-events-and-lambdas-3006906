@@ -1,0 +1,16 @@
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/bin/Debug/net5.0/BasicEvents
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/bin/Debug/net5.0/BasicEvents.deps.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/bin/Debug/net5.0/BasicEvents.runtimeconfig.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/bin/Debug/net5.0/BasicEvents.runtimeconfig.dev.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/bin/Debug/net5.0/BasicEvents.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/bin/Debug/net5.0/BasicEvents.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/obj/Debug/net5.0/BasicEvents.csproj.AssemblyReference.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/obj/Debug/net5.0/BasicEvents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/obj/Debug/net5.0/BasicEvents.AssemblyInfoInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/obj/Debug/net5.0/BasicEvents.AssemblyInfo.cs
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/obj/Debug/net5.0/BasicEvents.csproj.CoreCompileInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/obj/Debug/net5.0/BasicEvents.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/obj/Debug/net5.0/refint/BasicEvents.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/obj/Debug/net5.0/BasicEvents.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/obj/Debug/net5.0/BasicEvents.genruntimeconfig.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/BasicEvents/obj/Debug/net5.0/ref/BasicEvents.dll
