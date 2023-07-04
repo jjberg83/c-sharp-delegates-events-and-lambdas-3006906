@@ -1,0 +1,16 @@
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.csproj.AssemblyReference.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.AssemblyInfoInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.AssemblyInfo.cs
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.csproj.CoreCompileInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/bin/Debug/net5.0/ChainedEvents
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/bin/Debug/net5.0/ChainedEvents.deps.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/bin/Debug/net5.0/ChainedEvents.runtimeconfig.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/bin/Debug/net5.0/ChainedEvents.runtimeconfig.dev.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/bin/Debug/net5.0/ChainedEvents.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/bin/Debug/net5.0/ChainedEvents.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/obj/Debug/net5.0/refint/ChainedEvents.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.genruntimeconfig.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Events/ChainedEvents/obj/Debug/net5.0/ref/ChainedEvents.dll
