@@ -3,30 +3,30 @@
 namespace EventsSolution
 {
     // define the delegate for the event handler
-    public delegate void myEventHandler(string value);
+    public delegate void myEventHandler(float value);
 
     class EventPublisher
     {
-        private string theVal;
+        private float theVal;
         // declare the event handler
         public event myEventHandler valueChanged;
-        public event EventHandler<ObjChangeEventArgs> objChanged;
+        // public event EventHandler<ObjChangeEventArgs> objChanged;
 
-        public string Val
+        public float Val
         {
             set
             {
                 this.theVal = value;
                 // when the value changes, fire the event
                 this.valueChanged(theVal);
-                this.objChanged(this, new ObjChangeEventArgs() { propChanged = "Val" });
+                // this.objChanged(this, new ObjChangeEventArgs() { propChanged = "Val" });
             }
         }
     }
 
     class ObjChangeEventArgs : EventArgs
     {
-        public string propChanged;
+        public float propChanged;
     }
 
     class Program
@@ -40,15 +40,15 @@ namespace EventsSolution
             obj.valueChanged += new myEventHandler(changeListener2);
 
             // Use an anonymous delegate as the event handler
-            obj.valueChanged += delegate (string s)
+            obj.valueChanged += delegate (float s)
             {
-                Console.WriteLine("This came from the anonymous handler!");
+                Console.WriteLine($"This came from the anonymous handler: {s}");
             };
 
-            obj.objChanged += delegate (object sender, ObjChangeEventArgs e)
-            {
-                Console.WriteLine("{0} had the '{1}' property changed", sender.GetType(), e.propChanged);
-            };
+            // obj.objChanged += delegate (object sender, ObjChangeEventArgs e)
+            // {
+            //     Console.WriteLine("{0} had the '{1}' property changed", sender.GetType(), e.propChanged);
+            // };
 
             string str;
             do
@@ -57,17 +57,27 @@ namespace EventsSolution
                 str = Console.ReadLine();
                 if (!str.Equals("exit"))
                 {
-                    obj.Val = str;
+                    float theFloat;
+                    bool success = float.TryParse(str, out theFloat);
+                    if (success) 
+                    {
+                        Console.WriteLine($"Tallet {theFloat} ble konvertert riktig.");
+                    }
+                    else 
+                    {
+                        Console.WriteLine("Parsing feilet.");
+                    }
+                    obj.Val = theFloat;
                 }
             } while (!str.Equals("exit"));
             Console.WriteLine("Goodbye!");
         }
 
-        static void changeListener1(string value)
+        static void changeListener1(float value)
         {
             Console.WriteLine("The value changed to {0}", value);
         }
-        static void changeListener2(string value)
+        static void changeListener2(float value)
         {
             Console.WriteLine("I also listen to the event, and got {0}", value);
         }
