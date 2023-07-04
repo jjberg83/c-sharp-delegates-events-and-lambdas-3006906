@@ -1,0 +1,16 @@
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/bin/Debug/net5.0/EventsSolution
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/bin/Debug/net5.0/EventsSolution.deps.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/bin/Debug/net5.0/EventsSolution.runtimeconfig.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/bin/Debug/net5.0/EventsSolution.runtimeconfig.dev.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/bin/Debug/net5.0/EventsSolution.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/bin/Debug/net5.0/EventsSolution.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/obj/Debug/net5.0/EventsSolution.csproj.AssemblyReference.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/obj/Debug/net5.0/EventsSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/obj/Debug/net5.0/EventsSolution.AssemblyInfoInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/obj/Debug/net5.0/EventsSolution.AssemblyInfo.cs
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/obj/Debug/net5.0/EventsSolution.csproj.CoreCompileInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/obj/Debug/net5.0/EventsSolution.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/obj/Debug/net5.0/refint/EventsSolution.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/obj/Debug/net5.0/EventsSolution.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/obj/Debug/net5.0/EventsSolution.genruntimeconfig.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Finished/Events/EventsSolution/obj/Debug/net5.0/ref/EventsSolution.dll
