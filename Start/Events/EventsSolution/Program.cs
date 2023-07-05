@@ -12,6 +12,14 @@ namespace EventsSolution
         public event myEventHandler valueChanged;
         // public event EventHandler<ObjChangeEventArgs> objChanged;
 
+        private float balance;
+
+        public float balanceLink
+        {
+            get { return balance;}
+            set {balance += value;}
+        }
+
         public float Val
         {
             set
@@ -33,17 +41,31 @@ namespace EventsSolution
     {
         static void Main(string[] args)
         {
+            float balance = 0;
             // create the test class
             EventPublisher obj = new EventPublisher();
             // Connect multiple event handlers
             obj.valueChanged += new myEventHandler(changeListener1);
-            obj.valueChanged += new myEventHandler(changeListener2);
+            // obj.valueChanged += new myEventHandler(changeListener2);
+            obj.valueChanged += new myEventHandler(updateAmount);
+
 
             // Use an anonymous delegate as the event handler
-            obj.valueChanged += delegate (float s)
+            // obj.valueChanged += delegate (float s)
+            // {
+            //     Console.WriteLine($"This came from the anonymous handler: {s}");
+            // };
+
+            static void updateAmount(float value)
             {
-                Console.WriteLine($"This came from the anonymous handler: {s}");
-            };
+                
+                Console.WriteLine($"Balance was: {balance}, will change with: {value}");
+                Console.WriteLine("-----------------------------");
+
+                // balance += value;
+                // Console.WriteLine($"Balance is now: {balance}");
+
+            }
 
             // obj.objChanged += delegate (object sender, ObjChangeEventArgs e)
             // {
@@ -81,5 +103,6 @@ namespace EventsSolution
         {
             Console.WriteLine("I also listen to the event, and got {0}", value);
         }
+        
     }
 }
