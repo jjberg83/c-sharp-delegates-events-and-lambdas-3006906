@@ -45,7 +45,7 @@ namespace EventsSolution
             EventPublisher obj = new EventPublisher();
             // Connect multiple event handlers
             obj.valueChanged += new myEventHandler(changeListener1);
-            // obj.valueChanged += new myEventHandler(changeListener2);
+            obj.valueChanged += new myEventHandler(changeListener2);
             obj.valueChanged += new myEventHandler(updateAmount);
 
             string str;
@@ -76,17 +76,12 @@ namespace EventsSolution
         {
             Console.WriteLine($"Balance was: {balance}, will change with: {value}");
             balance += value;
-            Console.WriteLine($"Balance is now: {balance}");
-            Console.WriteLine("-----------------------------");[System.Serializable]
-            public class ProgramException : System.Exception
+            if (balance >= 501)
             {
-                public ProgramException() { }
-                public ProgramException(string message) : base(message) { }
-                public ProgramException(string message, System.Exception inner) : base(message, inner) { }
-                protected ProgramException(
-                    System.Runtime.Serialization.SerializationInfo info,
-                    System.Runtime.Serialization.StreamingContext context) : base(info, context) { }
+                Console.WriteLine("You've reached your savings goal of 501!");
             }
+            Console.WriteLine($"Balance is now: {balance}");
+            Console.WriteLine("-----------------------------");
         }
 
         static void changeListener1(float value)
