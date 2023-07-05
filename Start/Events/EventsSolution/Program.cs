@@ -10,14 +10,13 @@ namespace EventsSolution
         private float theVal;
         // declare the event handler
         public event myEventHandler valueChanged;
-        // public event EventHandler<ObjChangeEventArgs> objChanged;
 
         private float balance;
 
-        public float balanceLink
+        public float BalanceLink
         {
-            get { return balance;}
-            set {balance += value;}
+            get { return balance; }
+            set { balance += value; }
         }
 
         public float Val
@@ -26,51 +25,28 @@ namespace EventsSolution
             {
                 this.theVal = value;
                 // when the value changes, fire the event
-                this.valueChanged(theVal);
-                // this.objChanged(this, new ObjChangeEventArgs() { propChanged = "Val" });
+                this.valueChanged?.Invoke(theVal);
             }
         }
     }
 
     class ObjChangeEventArgs : EventArgs
     {
-        public float propChanged;
+        public string propChanged;
     }
 
     class Program
     {
+        static float balance = 0;
+
         static void Main(string[] args)
         {
-            float balance = 0;
             // create the test class
             EventPublisher obj = new EventPublisher();
             // Connect multiple event handlers
             obj.valueChanged += new myEventHandler(changeListener1);
             // obj.valueChanged += new myEventHandler(changeListener2);
             obj.valueChanged += new myEventHandler(updateAmount);
-
-
-            // Use an anonymous delegate as the event handler
-            // obj.valueChanged += delegate (float s)
-            // {
-            //     Console.WriteLine($"This came from the anonymous handler: {s}");
-            // };
-
-            static void updateAmount(float value)
-            {
-                
-                Console.WriteLine($"Balance was: {balance}, will change with: {value}");
-                Console.WriteLine("-----------------------------");
-
-                // balance += value;
-                // Console.WriteLine($"Balance is now: {balance}");
-
-            }
-
-            // obj.objChanged += delegate (object sender, ObjChangeEventArgs e)
-            // {
-            //     Console.WriteLine("{0} had the '{1}' property changed", sender.GetType(), e.propChanged);
-            // };
 
             string str;
             do
@@ -81,28 +57,46 @@ namespace EventsSolution
                 {
                     float theFloat;
                     bool success = float.TryParse(str, out theFloat);
-                    if (success) 
+                    if (success)
                     {
-                        Console.WriteLine($"Tallet {theFloat} ble konvertert riktig.");
+                        Console.WriteLine($"The number {theFloat} was successfully parsed.");
                     }
-                    else 
+                    else
                     {
-                        Console.WriteLine("Parsing feilet.");
+                        Console.WriteLine("Parsing failed.");
                     }
                     obj.Val = theFloat;
                 }
             } while (!str.Equals("exit"));
+
             Console.WriteLine("Goodbye!");
+        }
+
+        static void updateAmount(float value)
+        {
+            Console.WriteLine($"Balance was: {balance}, will change with: {value}");
+            balance += value;
+            Console.WriteLine($"Balance is now: {balance}");
+            Console.WriteLine("-----------------------------");[System.Serializable]
+            public class ProgramException : System.Exception
+            {
+                public ProgramException() { }
+                public ProgramException(string message) : base(message) { }
+                public ProgramException(string message, System.Exception inner) : base(message, inner) { }
+                protected ProgramException(
+                    System.Runtime.Serialization.SerializationInfo info,
+                    System.Runtime.Serialization.StreamingContext context) : base(info, context) { }
+            }
         }
 
         static void changeListener1(float value)
         {
             Console.WriteLine("The value changed to {0}", value);
         }
+
         static void changeListener2(float value)
         {
-            Console.WriteLine("I also listen to the event, and got {0}", value);
+            Console.WriteLine("I also listen to the event and got {0}", value);
         }
-        
     }
 }
