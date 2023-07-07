@@ -1,0 +1,16 @@
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/bin/Debug/net5.0/BasicLambdas
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/bin/Debug/net5.0/BasicLambdas.deps.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/bin/Debug/net5.0/BasicLambdas.runtimeconfig.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/bin/Debug/net5.0/BasicLambdas.runtimeconfig.dev.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/bin/Debug/net5.0/BasicLambdas.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/bin/Debug/net5.0/BasicLambdas.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/obj/Debug/net5.0/BasicLambdas.csproj.AssemblyReference.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/obj/Debug/net5.0/BasicLambdas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/obj/Debug/net5.0/BasicLambdas.AssemblyInfoInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/obj/Debug/net5.0/BasicLambdas.AssemblyInfo.cs
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/obj/Debug/net5.0/BasicLambdas.csproj.CoreCompileInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/obj/Debug/net5.0/BasicLambdas.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/obj/Debug/net5.0/refint/BasicLambdas.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/obj/Debug/net5.0/BasicLambdas.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/obj/Debug/net5.0/BasicLambdas.genruntimeconfig.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/BasicLambdas/obj/Debug/net5.0/ref/BasicLambdas.dll
