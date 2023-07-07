@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sqvpjOMTD0fYuk81QmEJrAalcLL7h8H1TSSoVaimDRUYAqiJXtNXX3LgYGKrqJjstkmYZ3+V2/+tD/kpcsi3sw==",
+  "success": true,
+  "projectFilePath": "/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdaDelegates/LambdaDelegates.csproj",
+  "expectedPackageFiles": [
+    "/Users/jjberg/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/jjberg/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/jjberg/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
