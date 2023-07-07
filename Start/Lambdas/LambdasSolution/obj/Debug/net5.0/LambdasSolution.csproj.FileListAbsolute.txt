@@ -1,0 +1,16 @@
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/bin/Debug/net5.0/LambdasSolution
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/bin/Debug/net5.0/LambdasSolution.deps.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/bin/Debug/net5.0/LambdasSolution.runtimeconfig.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/bin/Debug/net5.0/LambdasSolution.runtimeconfig.dev.json
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/bin/Debug/net5.0/LambdasSolution.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/bin/Debug/net5.0/LambdasSolution.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/obj/Debug/net5.0/LambdasSolution.csproj.AssemblyReference.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/obj/Debug/net5.0/LambdasSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/obj/Debug/net5.0/LambdasSolution.AssemblyInfoInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/obj/Debug/net5.0/LambdasSolution.AssemblyInfo.cs
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/obj/Debug/net5.0/LambdasSolution.csproj.CoreCompileInputs.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/obj/Debug/net5.0/LambdasSolution.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/obj/Debug/net5.0/refint/LambdasSolution.dll
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/obj/Debug/net5.0/LambdasSolution.pdb
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/obj/Debug/net5.0/LambdasSolution.genruntimeconfig.cache
+/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Lambdas/LambdasSolution/obj/Debug/net5.0/ref/LambdasSolution.dll
