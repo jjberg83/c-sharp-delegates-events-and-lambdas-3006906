@@ -28,10 +28,10 @@ namespace Composable
             int b=20;
 
             // call each delegate and then the chain
-            Console.WriteLine("Calling the first delegate");
-            f1(a, b);
-            Console.WriteLine("Calling the second delegate");
-            f2(a, b);
+            // Console.WriteLine("Calling the first delegate");
+            // f1(a, b);
+            // Console.WriteLine("Calling the second delegate");
+            // f2(a, b);
             // TODO: Call the composed delegate
             Console.WriteLine("\nCalling the chained delegates");
             f1f2(a, b);
