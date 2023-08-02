@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IigisFoX2k3p5mk3Mq/Yd/rdZ7ouqZUXyGfQi+hRtpqTPgxkioIxgf4rq2D31oKZIYSbUuR3Jy8LZ08ALGvTZQ==",
+  "dgSpecHash": "RX6sBTVAtSl6EObQ7FPC30rf5my3Khhf8ARLLxyz0ho0znaSN23mRDIw+BOPTQh/w5Fx4wf/C7R+pA2/fox2Xw==",
   "success": true,
   "projectFilePath": "/Users/jjberg/Github/c-sharp-delegates-events-and-lambdas-3006906/Start/Delegates/Composable2/Composable2.csproj",
   "expectedPackageFiles": [
+    "/Users/jjberg/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/jjberg/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "/Users/jjberg/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
-    "/Users/jjberg/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "/Users/jjberg/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

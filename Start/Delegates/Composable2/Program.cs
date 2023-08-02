@@ -29,13 +29,17 @@ namespace Composable2
             int b=20;
 
             // call each delegate and then the chain
+            Console.WriteLine($"a: {a}, b: {b}");
             Console.WriteLine("Calling the first delegate");
             f1(a,ref b);
+            Console.WriteLine($"a: {a}, b: {b} (b bør være 40)");
             Console.WriteLine("Calling the second delegate");
             f2(a, ref b);
+            Console.WriteLine($"a: {a}, b: {b} (b bør fortsatt være 40 fordi func2 legger ikke noe til)");
             // Call the composed delegate
             Console.WriteLine("\nCalling the chained delegates");
             f1f2(a, ref b);
+            Console.WriteLine($"a: {a}, b: {b} (b bør være 60 fordi func1 kjøres på ny)");
 
         }
     }
